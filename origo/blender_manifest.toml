@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "origo"
+version = "1.1.0"
+name = "Origo"
+tagline = "Fast origin placement, 3D cursor tools and drop to surface"
+maintainer = "wilmastudio.co"
+type = "add-on"
+website = "https://wilmastudio.co"
+
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
